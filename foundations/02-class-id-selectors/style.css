@@ -1,28 +1,19 @@
-p {
+.odd {
     background-color: lightcoral;
-    font-family: verdana, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-div {
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
     color: blue;
     font-size: 36px;
 }
 
-p {
-    background-color: lightcoral;
-    font-family: Verdana, sans-serif;
-    font-size: 24px;
-}
-
-div {
+#four {
     background-color: lightgreen;
-    font-size: 24px;
-    font-weight: 700;
-}
-
-p {
-    background-color: lightcoral;
-    font-family: verdana, sans-serif;
     font-size: 24px;
     font-weight: 700;
 }
